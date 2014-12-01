@@ -1,4 +1,0 @@
-Indix
-=====
-
-project for Indix
